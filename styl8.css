@@ -1,0 +1,45 @@
+* {
+    font-family: Garamond;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+#lewa {
+    width:30%;
+    display: flex;
+    flex-direction: column;
+}
+#lewa1{ 
+    background-color: #c70b0b;
+    font-size: 170%;
+    height: 100%;
+
+ }
+
+#prawa {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+#prawa1{
+    background-color: #797878;
+    color: #494848;
+    height: 455px;
+}
+#prawa2 {
+    background-color:#795548;
+    color: wheat;
+    height: 455px;
+}
+#stopka {
+    background-color: #5c2b55;
+    color: white;
+    padding: 50px;
+}
